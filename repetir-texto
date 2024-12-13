@@ -1,0 +1,4 @@
+texto = input("Digite um texto: ")
+vezes = int(input("Quantas vezes você quer repetir o texto? "))
+resultado = texto * vezes
+print(f"Resultado:\n{resultado}")
